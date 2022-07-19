@@ -1,4 +1,4 @@
-## Olá! Eu sou o Groper01 🙌
+## Olá! Eu sou o Groper01 
 
 - 👔 Hoje eu trabalho com back-end
 - 🌱 Estudando Javascrpit e Typescript
