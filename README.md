@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Groper01 
 
-- 👔 Hoje eu trabalho com back-end
-- 🌱 Estudando Javascrpit e Typescript
+- 🌱 Estudando Javascripit e Typescript
 - 👀 Estou interessado em novas oportunidades
 - 📫 Contate-me no email renangroper@gmail.com
 
